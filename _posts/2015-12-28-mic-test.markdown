@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Mic Test"
+date:   2015-12-28 15:47:21 -0500
+categories: jekyll update
+---
+
+Testing if code snippets work:
+
+{% highlight python %}
+import numpy as np
+
+x = np.linspace(-np.pi/2, np.pi/2, 100)
+y = np.sin(x)
+
+for xi, yi in zip(x, y):
+    print(xi, yi)
+{% endhighlight %}
+
+Testing out Latex:
+
+$$E=mc^2$$ is an inline equation. This is a displayed equation:
+
+$$
+i\hbar\frac{\partial\psi}{\partial t}=\hat{H}\mid\psi\rangle
+$$
+
