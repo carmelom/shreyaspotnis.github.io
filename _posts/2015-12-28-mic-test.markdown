@@ -22,6 +22,17 @@ Testing out Latex:
 $$E=mc^2$$ is an inline equation. This is a displayed equation:
 
 $$
-i\hbar\frac{\partial\psi}{\partial t}=\hat{H}\mid\psi\rangle
+i\hbar\frac{\partial\psi}{\partial t}=\hat{H}\mid\psi\rangle.
 $$
+
+This is a numbered equation:
+
+$$
+\begin{equation}
+\mu=\left\{ 12\left(\hbar\bar{\omega}\right)^{2}\left(m\bar{a}\right)\left(Na_{s}\right)\right\} ^{1/3}.\label{eq:mu_infty_wall}
+\end{equation}
+$$
+
+And this is a reference to this equation: Eq.\eqref{eq:mu_infty_wall}.
+
 
