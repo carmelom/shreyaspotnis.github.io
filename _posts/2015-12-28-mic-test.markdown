@@ -47,9 +47,5 @@ Here's a picture of a cloud of atoms:
 ![MOT loading](/assets/mic-testing/lmot_loading.png)
 
 Here's another picture, but this time with captions:
-{% include image.html url="/assets/mic-testing/test_plot.svg"
-description="Test caption" %}
-
-
 
 
