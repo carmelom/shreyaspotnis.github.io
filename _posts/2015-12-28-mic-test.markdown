@@ -34,5 +34,9 @@ $$
 $$
 
 And this is a reference to this equation: Eq.\eqref{eq:mu_infty_wall}.
+Here's a picture of a cloud of atoms:
+![MOT loading](/assets/mic-testing/lmot_loading.png)
+
+
 
 
