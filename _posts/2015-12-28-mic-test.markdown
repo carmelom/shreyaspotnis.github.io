@@ -2,7 +2,7 @@
 layout: post
 title:  "Mic Test"
 date:   2015-12-28 15:47:21 -0500
-categories: jekyll update
+categories: test latex
 ---
 
 Testing if code snippets work:
