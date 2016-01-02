@@ -2,7 +2,8 @@
 layout: post
 title:  "Mic Test"
 date:   2015-12-28 15:47:21 -0500
-categories: test latex
+categories: latex
+tags: latex python figure
 ---
 
 Testing if code snippets work:
