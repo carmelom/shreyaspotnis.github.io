@@ -7,8 +7,7 @@
 
 # Site settings
 title: Shreyas Potnis
-description: > # this means to ignore newlines until "baseurl:"
-  A blog on physics and technology.
+email: spotnis@physics.utoronto.ca
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shreyaspotnis.github.io" # the base hostname & protocol for your site
 
