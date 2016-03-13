@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 *Thumbs.db
+
+assets/mic-testing/Thumbs.db
